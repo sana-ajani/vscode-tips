@@ -3,7 +3,7 @@
 ## Insiders
 - [Insiders Build](https://code.visualstudio.com/insiders)
 
-- Pro tip: Command Palette is `F1` or `Cmd/Ctrl + Shift + P`
+- Pro Tip: Command Palette is `F1` or `Cmd/Ctrl + Shift + P`
 
 --- 
 ## Terminal and Command Palette
@@ -70,6 +70,6 @@
 
 - Develop inside a Virtual machine, a container, or in WSL
 
-- Demo: Try a Sample
+- Demo: Try a Sample!
 
 
