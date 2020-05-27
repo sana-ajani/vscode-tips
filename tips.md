@@ -29,13 +29,15 @@
 
 ## GitHub Features
 
-- GitHub Pull Requests and Issues extension
+- [GitHub Pull Requests and Issues extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
 - GH Authentication
 
 - Initialize new repository from VS Code
 
 - Clone repos, search for repos
+
+- [Issues and PR features](https://code.visualstudio.com/blogs/2020/05/06/github-issues-integration)
 
 ---
 
@@ -47,6 +49,11 @@
 
 - Develop inside a Virtual machine, a container, or in WSL
 
-- Demo: Try a Sample!
+- Demo: Try a Sample!   
+
+  - Node.js: https://github.com/Microsoft/vscode-remote-try-node
+  - Python: https://github.com/Microsoft/vscode-remote-try-python
+  - Rust: https://github.com/Microsoft/vscode-remote-try-rust
+  - Java: https://github.com/Microsoft/vscode-remote-try-java
 
 - Request access to Codespaces preview: https://github.com/features/codespaces
